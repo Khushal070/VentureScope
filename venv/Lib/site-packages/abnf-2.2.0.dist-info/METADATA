@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: abnf
+Version: 2.2.0
+Summary: Parsers for ABNF grammars.
+Home-page: https://github.com/declaresub/abnf
+Author: Charles Yeomans
+Author-email: charles@declaresub.com
+License: MIT
+Keywords: abnf,parser,generator
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Software Development :: Code Generators
+Classifier: Topic :: Software Development :: Interpreters
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3
+License-File: LICENSE.txt
+Requires-Dist: typing-extensions (<5,>=4)
+Requires-Dist: importlib-metadata ; python_version < "3.8"
+
+ABNF generates parsers for ABNF grammars. Though intended for use with RFC grammars, ABNF should handle any valid grammar.

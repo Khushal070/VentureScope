@@ -1,0 +1,12 @@
+langgraph
+google-genai
+pydantic
+streamlit
+pandas
+wandb
+weave
+requests
+python-dotenv
+pytrends
+beautifulsoup4
+httpx

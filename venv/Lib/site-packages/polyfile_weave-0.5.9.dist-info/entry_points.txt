@@ -1,0 +1,2 @@
+[console_scripts]
+polyfile = polyfile.__main__:main
