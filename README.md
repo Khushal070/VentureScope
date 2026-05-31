@@ -1,5 +1,7 @@
 # 📡 VentureScope
 
+### 🚀 [Live Demo → khushaltrivedi-venturescope.streamlit.app](https://khushaltrivedi-venturescope.streamlit.app)
+
 **AI-powered company research for angel investors.**
 
 VentureScope analyzes a company across **seven independent signal domains** in
